@@ -6,4 +6,6 @@
     <string name="add_string">Add</string>
     <string name="add_spending_account">Add Spending Account</string>
     <string name="spending_accounts">Spending Accounts</string>
+    <string name="account_name">Account Name</string>
+    <string name="account_budget">Account Budget</string>
 </resources>
