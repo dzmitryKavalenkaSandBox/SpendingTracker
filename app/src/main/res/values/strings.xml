@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpendingTracker</string>
+    <string name="add_sub_category_button_name">Add Sub Category</string>
+    <string name="add_category_button_name">Add Category</string>
+    <string name="spending_categories_page_title">Spending Categories</string>
+    <string name="add_string">Add</string>
+    <string name="add_spending_account">Add Spending Account</string>
+    <string name="spending_accounts">Spending Accounts</string>
+</resources>
